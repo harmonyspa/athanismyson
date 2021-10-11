@@ -1,0 +1,17 @@
+{{- partial "helper/external" (dict "Context" . "Namespace" "Vibrant") -}}
+
+{{- $opts := dict "minify" hugo.IsProduction -}}
+{{- $script := resources.Get "ts/main.ts" | js.Build $opts -}}
+
+<script type="text/javascript" src="{{ $script.RelPermalink }}" defer></script>
+<script>
+    if (window.netlifyIdentity) {
+      window.netlifyIdentity.on('init', (user) => {
+        if (!user) {
+          window.netlifyIdentity.on('login', () => {
+            document.location.href = '/admin/';
+          });
+        }
+      });
+    }
+</script>
