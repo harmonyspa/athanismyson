@@ -1,5 +1,5 @@
 ---
-title: "Arsip"
+title: "Arquivado"
 date: 2021-08-31
 layout: "archives"
 slug: "archives"
