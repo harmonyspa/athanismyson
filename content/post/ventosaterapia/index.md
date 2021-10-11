@@ -8,7 +8,7 @@ categories:
   - ventosa
 tags:
   - ventosa
-image: whatsapp-image-2021-10-08-at-12.59.01.jpeg
+image: whatsapp-image-2021-10-08-at-13.04.30.jpeg
 license: free
 ---
 A ventosaterapia é um tipo de tratamento natural no qual são usadas ventosas para melhorar a circulação sanguínea em um local do corpo. Para isso, as ventosas criam um efeito de vácuo, que suga a pele, resultando em um aumento do diâmetro dos vasos sanguíneo no exato local. Como resultado, existe uma maior oxigenação destes tecidos, permitindo a liberação de toxinas do sangue e do músculo com mais facilidade. 
