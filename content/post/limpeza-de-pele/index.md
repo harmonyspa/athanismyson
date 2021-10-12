@@ -9,6 +9,7 @@ description: O que é limpeza de pele? Um dos tratamentos estéticos mais
 categories:
   - limpeza
   - pele
+  - estética
 image: whatsapp-image-2021-10-08-at-13.03.14.jpeg
 license: Free
 ---

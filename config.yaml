@@ -1,8 +1,8 @@
-baseurl: https://athanismyson.com/
+baseurl: /
 languageCode: en-us
 theme: stack
-paginate: 5
-title: Athan is my Son
+paginate: 4
+title: Harmony Spa
 
 # Change it to your Disqus shortname before using
 # disqusShortname: 
@@ -33,15 +33,15 @@ params:
 
     footer:
         since: 2021
-        customText: Because Athan is my Son of course.
+        customText: Harmony Spa wellness 
 
     dateFormat:
-        published: 02 Jan 2006
-        lastUpdated: 02 Jan 2006 15:04 UTC+07.00
+        published: 02 Jan 2021
+        lastUpdated: 02 Jan 2021 15:04 UTC-03.00
 
     sidebar:
         emoji: 👨‍🏫
-        subtitle: Just another diary of cool-looking-wannabe father.
+        subtitle: Espaço para cuidar do seu corpo e garantir seu bem estar.
         avatar:
             enabled: true
             local: true
