@@ -11,3 +11,5 @@ image: 50341962788_57b98b8874_w.jpg
 license: Free
 ---
 Conforme “História e Origem da Medicina Ayurveda“, é conhecida como a mais completa e mais antiga técnica de massagem natural, tendo sido criada há mais de 5 mil anos segundo registros históricos, e segundo estudos, esta técnica é mais praticada na Índia, onde cerca de 80% da população pratica esta técnica milenar.
+
+Esta técnica permite um bem estar sensacional
