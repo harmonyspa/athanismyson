@@ -3,7 +3,7 @@ author: Harmonyspa
 title: Ventosaterapia
 date: 2021-10-11T11:29:25.632Z
 description: Tratamento natural no qual são usadas ventosas para melhorar a
-  circulação sanguínea em um local do corpo.
+  circulação sanguínea em um local do corpo. Sensacional !!!
 categories:
   - ventosa
 tags:
