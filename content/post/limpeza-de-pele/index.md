@@ -1,6 +1,6 @@
 ---
 author: Harmonyspa
-title: Limpeza de pele
+title: Limpeza profunda de pele
 date: 2021-10-11T11:52:08.013Z
 description: O que é limpeza de pele? Um dos tratamentos estéticos mais
   realizados no mundo, a limpeza de pele tem como objetivo remover os cravos e
