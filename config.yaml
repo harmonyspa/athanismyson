@@ -45,7 +45,7 @@ params:
         avatar:
             enabled: true
             local: true
-            src: img/avatar.png
+            src: img/wepik-2021912-12218.png
 
     article:
         math: false
