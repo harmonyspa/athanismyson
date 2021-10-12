@@ -63,7 +63,7 @@ search:
 
 footer:
     builtWith:
-        other: Dibuat dengan {{ .Generator }}
+        other: Feito usando o {{ .Generator }}
 
     designedBy:
         other: Tema {{ .Theme }} dirancang oleh {{ .DesignedBy }}
