@@ -1,11 +1,10 @@
 ---
 author: Harmonyspa
-title: Limpeza de pele
+title: Dermaplaning
 date: 2021-10-11T11:52:08.013Z
-description: O que é limpeza de pele? Um dos tratamentos estéticos mais
-  realizados no mundo, a limpeza de pele tem como objetivo remover os cravos e
-  as impurezas, desobstruir os poros e melhorar a capacidade de absorção da
-  pele.
+description: O que é dermaplaning ? Um dos tratamentos estéticos mais realizados
+  no mundo,  tem como objetivo remover os cravos e as impurezas, desobstruir os
+  poros e melhorar a capacidade de absorção da pele.
 categories:
   - limpeza
   - pele
