@@ -14,4 +14,4 @@ menu:
 
 ## Fale conosco
 
-Vamos manter contato. Se estiver interessado em esclarecer alguma dúvida, por favor contato via [email](mailto:harmonyspatech@gmail.com) ou [whatsapp](https://api.whatsapp.com/send?phone=+5584991026626).
+Esperamos que você tenha gostado de nosso conteúdo. Vamos manter contato? Se estiver interessado em esclarecer alguma dúvida, por favor contato via [email](mailto:harmonyspatech@gmail.com) ou [whatsapp](https://api.whatsapp.com/send?phone=+5584991026626).
