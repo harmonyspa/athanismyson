@@ -63,7 +63,7 @@ search:
 
 footer:
     builtWith:
-        other: Feito tecnologia moderna ( {{ .Generator }} )
+        other: criado por 
 
     designedBy:
-        other: por relato.com.br
+        other: relato.com.br
