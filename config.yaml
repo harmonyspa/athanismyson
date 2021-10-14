@@ -1,5 +1,5 @@
 baseurl: /
-languageCode: en-us
+languageCode: pt-br
 theme: stack
 paginate: 4
 title: Harmony Spa
@@ -33,7 +33,7 @@ params:
 
     footer:
         since: 2021
-        customText: Harmony Spa wellness 
+        customText: Harmony Spa Wellness 
 
     dateFormat:
         published: 02 Jan 2021
@@ -41,19 +41,19 @@ params:
 
     sidebar:
         emoji: 👨‍🏫
-        subtitle: Espaço para cuidar do seu corpo e garantir seu bem estar.
+        subtitle: Espaço para cuidar do seu corpo e garantir seu bem estar. Equilibrio e saúde!
         avatar:
             enabled: true
             local: true
-            src: img/wepik-2021912-12218.png
+            src: img/harmonyspalogo.png
 
     article:
         math: false
         toc: true
         readingTime: true
         license:
-            enabled: true
-            default: Licensed under CC BY-NC-SA 4.0
+            enabled: false
+            default: Todos os direitos reservados
 
     comments:
         enabled: false
@@ -87,10 +87,10 @@ params:
 
     colorScheme:
         # Display toggle
-        toggle: false
+        toggle: true
 
         # Available values: auto, light, dark
-        default: light
+        default: dark
 
     imageProcessing:
         cover:

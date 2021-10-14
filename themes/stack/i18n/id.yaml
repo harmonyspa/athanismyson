@@ -1,51 +1,51 @@
 toggleMenu:
-    other: Tampilkan Menu
+    other: Mostrar Menu
 
 darkMode:
-    other: Mode Gelap
+    other: Modo Escuro
 
 list:
     page:
-        one: "{{ .Count }} halaman"
-        other: "{{ .Count }} halaman"
+        one: "{{ .Count }} página"
+        other: "{{ .Count }} página"
 
     section:
-        other: Bagian
+        other: Seção
 
     subsection:
-        one: Subbagian
-        other: Subbagian
+        one: Subseção
+        other: Subseção
 
 article:
     back:
-        other: Kembali
+        other: Voltar
 
     tableOfContents:
-        other: Daftar Isi
+        other: Índice
 
     relatedContents:
-        other: Konten terkait
+        other: Conteúdo Relationado
 
     lastUpdatedOn:
-        other: Terakhir diperbarui pada
+        other: Última atualização em
 
     readingTime:
-        one: "Waktu Membaca: {{ .Count }} menit"
-        other: "Waktu Membaca: {{ .Count }} menit"
+        one: "Tempo de leitura: {{ .Count }} minuto"
+        other: "Tempo de leitura: {{ .Count }} minutos"
 
 notFound:
     title:
-        other: Tidak ditemukan
+        other: Não encontrado
     subtitle:
-        other: Halaman yang Anda akses tidak ditemukan.
+        other: A página que você está acessando não foi encontrada.
 
 widget:
     archives:
         title:
-            other: Arsip
+            other: Arquivos
 
         more:
-            other: Lebih
+            other: Mais
 
     tagCloud:
         title:
@@ -53,17 +53,17 @@ widget:
 
 search:
     title:
-        other: Kolom Pencarian
+        other: Pesquise aqui
 
     placeholder:
-        other: Ketik sesuatu...
+        other: massagem
 
     resultTitle:
-        other: "#PAGES_COUNT halaman (#TIME_SECONDS detik)"
+        other: "#PAGES_COUNT página (#TIME_SECONDS detik)"
 
 footer:
     builtWith:
-        other: Feito usando o {{ .Generator }}
+        other: Feito tecnologia moderna ( {{ .Generator }} )
 
     designedBy:
-        other: Tema {{ .Theme }} dirancang oleh {{ .DesignedBy }}
+        other: por relato.com.br

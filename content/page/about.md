@@ -1,26 +1,17 @@
 ---
-title: Siapa Aku
-description: A brief description about Athan's father
-date: '2021-08-31'
+title: Sobre o spa
+description: Local agradável que proporciona um bem estar permitindo o relaxamento necessário para reestabelecer o equilíbrio energético do seu corpo.
+date: '2021-10-01'
 aliases:
   - about-us
   - contact
-lastmod: '2021-08-31'
+lastmod: '2021-10-01'
 menu:
     main: 
         weight: -70
         pre: user
 ---
 
-Hanya seorang penggemar teknologi yang kenal komputer dari jaman baja hitam tapi hanya sebatas kenal aja gak pernah serius 😑.
+## Fale conosco
 
-Blog ini dibuat dengan menggunakan beberapa teknologi open source :bowing_man: :clap: :partying_face: seperti.
-
-* [Hugo](https://github.com/gohugoio)
-* [Netlify CMS](https://www.netlifycms.org/)
-
-----
-
-## Yuk Terhubung
-
-Mari menjaga silaturahmi. Apabila tertarik untuk diskusi apa saja. silakan menghubungi penulis via [email](mailto:adhyatnika.nugraha@gmail.com) atau [wa](https://api.whatsapp.com/send?phone=6281803539087).
+Vamos manter contato. Se estiver interessado em esclarecer alguma dúvida, por favor contato via [email](mailto:harmonyspatech@gmail.com) ou [whatsapp](https://api.whatsapp.com/send?phone=+5584991026626).
