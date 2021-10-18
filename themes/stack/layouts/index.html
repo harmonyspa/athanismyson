@@ -5,6 +5,9 @@
     {{ $pag := .Paginate ($filtered) }}
 
     <section class="article-list">
+        <iframe width="100%" height="450" src="https://www.youtube.com/embed/fO-ziQeMLrU" frameborder="0" allowfullscreen></iframe>
+        <br /><br />
+
         {{ range $index, $element := $pag.Pages }}
             {{ partial "article-list/default" . }}
         {{ end }}
