@@ -1,10 +1,15 @@
 <footer class="article-footer">
     {{ partial "article/components/tags" . }}
+    <center>
+        <a href="https://api.whatsapp.com/send?l=pt&amp;phone=5584991026626"><img 
+              src="https://i.imgur.com/ryESuZ5.png" style="height:64px; bottom: 25px; right: 25px;" data-selector="img"></a></center>
+
 
     {{ if and (.Site.Params.article.license.enabled) (not (eq .Params.license false)) }}
     <section class="article-copyright">
         {{ partial "helper/icon" "copyright" }}
         <span>{{ default .Site.Params.article.license.default .Params.license | markdownify }}</span>
+        
     </section>
     {{ end }}
 
